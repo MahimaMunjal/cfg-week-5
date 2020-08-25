@@ -1,0 +1,10 @@
+.box1{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    padding-top: 75px;
+}
+.box1 button{
+    font-size: 35px;
+    background-color: rgba(6, 209, 6, 0.377);
+}
